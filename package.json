@@ -10,8 +10,8 @@
   "dependencies": {
     "@hono/react-renderer": "^0.2.0",
     "hono": "^4.4.12",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.0.0-rc-df783f9ea1-20240708",
+    "react-dom": "^19.0.0-rc-df783f9ea1-20240708"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240529.0",
