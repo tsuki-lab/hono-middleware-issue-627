@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "dev:bun": "bun run --hot src/index.tsx",
-    "dev": "vite"
+    "dev": "bun run --bun vite"
   },
   "dependencies": {
     "@hono/react-renderer": "^0.2.0",
